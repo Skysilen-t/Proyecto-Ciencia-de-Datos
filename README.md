@@ -4,7 +4,7 @@ Grupo 27
 ## Integrantes de nuestro Grupo
 | Nombre | Mail UC |
 | :-: | :-: |
-| Drawin Zambrano | correo |
+| Drawin Zambrano | de.zambranoc@estudiante.uc.cl |
 | Nahuel Gutierrez | correo |
 | José Mora | jmorg@estudiante.uc.cl |
 

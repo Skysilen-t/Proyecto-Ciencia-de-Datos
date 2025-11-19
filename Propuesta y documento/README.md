@@ -1,2 +1,18 @@
 # Propuesta inicial para el proyecto
-En esta carpeta se encuentra un documento .pdf que explica nuestra propuesta, como también un jupyter notebook con la demostración inicial de nuestro proyecto y query.csv con la información utilizada en el notebook
+En esta carpeta se encuentra un documento .pdf que explica nuestra propuesta, así como también una carpeta data que contine el archivo *query.csv* inicial descargado desde USGS y el archivo *query_limpio.csv* creado en el notebook *limpieza_de_datos*, luego está la carpeta *Preguntas* que contiene nobooks respondeinedo cada una de las preguntas objetivo de nuestro proyecto
+
+Librerías necesarias para ejecutar los notebooks:
+-pandas
+-pathlib
+-os
+-geopandas
+-matplotlib
+-seaborne
+-numpy
+
+Flujo adecuado para visualizar los notebooks:
+1. Ejecutar el notebook *Limpieza_de_datos* para revisar, ordenar y almacenar la información de un modo más adecuado.
+2. Acceder a la carpeta Preguntas.
+3. Observar el notebook *pregunta_1* para conocer la información que registramos en nuestro archivo.
+4. Ejecutar el Notebook *pregunta_2* para visualizar los mayores terremotos por región.
+5. Ejecutar el notebook *pregunta_3* para ...

@@ -5,6 +5,8 @@ Librerías necesarias para ejecutar los notebooks:
 -pandas
 -pathlib
 -os
+-webbrowser
+-folium
 -geopandas
 -matplotlib
 -seaborne

@@ -20,7 +20,7 @@ Preguntas: en esta carpeta se encuentra 5 archivos cada uno con una de las 5 pre
 
 Regresión lineal: en esta carpeta podrán encontrar una regresión lineal que aplicamos a algunas de nuestras variables para poder visualizar los datos.
 
-data: En data encontramos una carpeta de Regiones que contiene un mapa de las regiones de Chile que utilizamos para responder algunas de nuestras preguntas. Además, encontramos el archivo de query.csv que es el documento principal donde obtenemos los datos, además está el query_limpio.csv que es el archivo que guardamos una vez realizamos la limpieza de los datos. Los archivos mapa_chile.html y mapa_iquique.html son dos mapas que generamos en la pregunta 3, al ver esta pregunta puede dirigirse acá para observar los mapas.
+data: En data encontramos una carpeta de Regiones que contiene un mapa de las regiones de Chile que utilizamos para responder algunas de nuestras preguntas. Además, encontramos el archivo de query.csv que es el documento principal donde obtenemos los datos, además está el query_limpio.csv que es el archivo que guardamos una vez realizamos la limpieza de los datos. Los archivos mapa_chile.html y mapa_iquique.html son dos mapas que generamos en la pregunta 3, al ver esta pregunta puede dirigirse acá para observar los mapas. Los archivos mapa_alto_riesgo.html y mapa_riesgo.html son para visualizar mapas sobre la pregunta 5.
 
 Por último, el archivo de Proyecto.pdf que es la presentación formal de nuestro proyecto allí podrán encontrar nuestra motivación y contexto, objetivo, de donde obtenemos nuestros datos, nuestras preguntas originales y nuestro diseño tentativo inicial.
 

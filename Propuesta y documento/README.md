@@ -11,6 +11,8 @@ Librerías necesarias para ejecutar los notebooks:
 -numpy
 -plotly 
 -sklearn
+-folium
+-webbrowser
 
 Flujo adecuado para visualizar los notebooks:
 1. Ejecutar el notebook *Limpieza_de_datos* para revisar, ordenar y almacenar la información de un modo más adecuado.

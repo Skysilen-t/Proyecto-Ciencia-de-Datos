@@ -22,4 +22,4 @@ Flujo adecuado para visualizar los notebooks:
 5. Ejecutar el notebook *pregunta_2* para visualizar los mayores terremotos por región.
 6. Ejecutar el notebook *pregunta_3* para encontrar el area de mayor riesgo en el país.
 7. Ejecutar el notebook *pregunta_4* para calcular el tiempo promedio en que ocurren los terremotos
-8. Ejecutar el notebook *pregunta_5* para generar el modelo predictivo de lugares de riesgo
+8. Ejecutar el notebook *pregunta_5* para generar el modelo que clasifica eventos según su potencial para causar zonas de riesgo

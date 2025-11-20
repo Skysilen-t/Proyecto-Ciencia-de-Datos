@@ -26,7 +26,7 @@ Por último, el archivo de Proyecto.pdf que es la presentación formal de nuestr
 
 En el readme de la carpeta de Propuesta y documento podrán encontrar una guía de un posible flujo adecuado para visualizar los notebooks.
 
-Librerías necesarias para ejecutar los notebooks: -pandas -pathlib -os -geopandas -matplotlib -seaborne -numpy -plotly -sklearn
+Librerías necesarias para ejecutar los notebooks: -pandas -pathlib -os -geopandas -matplotlib -seaborne -numpy -plotly -sklearn -webbrowser -folium
 
 
 

@@ -1,4 +1,4 @@
-# Propuesta inicial para el proyecto
+# Información sobre el proyecto
 En esta carpeta se encuentra un documento .pdf que explica nuestra propuesta, así como también una carpeta data que contine el archivo *query.csv* inicial descargado desde USGS y el archivo *query_limpio.csv* creado en el notebook *limpieza_de_datos*, luego está la carpeta *Preguntas* que contiene nobooks respondeinedo cada una de las preguntas objetivo de nuestro proyecto
 
 Librerías necesarias para ejecutar los notebooks:
